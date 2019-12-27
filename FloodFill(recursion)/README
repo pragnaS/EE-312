@@ -1,0 +1,5 @@
+***
+
+Run "make" to compile makefile
+
+Run "./floodfill <filename> where <filename> is the name of the file that stores the original grid

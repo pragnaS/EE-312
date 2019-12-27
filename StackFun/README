@@ -1,0 +1,14 @@
+===DESCRIPTION====
+Program that checks the validity of an expression. Determines if parenthesis, square brackets and angle braces match.
+If they do, output of the program is "valid expression". 
+If they do not, the output will reflect the error. 
+
+===COMPILING===
+Unzip the file and transfer it to a linux environment
+Type cd ../prog03array_ps28338
+Then type make -f makefile to compile
+
+===RUN PROGRAM===
+To run the program:
+Type ./checker <filename>
+<filename> is the name of the file that contains the expressions to be checked
